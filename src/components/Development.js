@@ -62,7 +62,7 @@ function part2(){
             <h4 className="seudoTitle" style={{marginBottom:"0%", paddingBottom:"0%"}}>Sneaker Junkies Website</h4>
             <h5 style={{margin:"0%}"}}> Click on the Link Below to View The Full Website  </h5>
             <a href="https://tiredcheetah112.github.io/Development">
-                <img src={sneakers} className="flower"></img>
+                <img src={sneakers} className="flower2"></img>
             </a>
         </div>
 

@@ -377,12 +377,16 @@ li{
   box-shadow: rgb(0 0 0 / 40%) 0px 5px 15px;
   border-radius: 1rem;
 }
-.flower{
+.flower, .flower2{
   max-width: 91%;
   max-height: 91%;
   border-radius: 1rem;
   opacity: 70%;
   box-shadow: rgba(0, 0, 0, 0.30) 0px 2px 7px;
+}
+.flower2:hover{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+
 }
 
 .personaImage1{

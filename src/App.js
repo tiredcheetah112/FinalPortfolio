@@ -36,7 +36,7 @@ function App() {
 
   function sliding(){
     let header = "Welcome to my portfolio!"
-    let string = "I am a Computer Science student at Brown University, and I am a student in cs1300 (UIUX). I am interested in creating interactive, interesting and beautiful digital experiences"
+    let string = "I am a Computer Science student at Brown University, and I am a student in cs1300 (UIUX). I am interested in creating interactive, unique, and beautiful digital experiences"
     return (
     <div className="slidingBox">
       <h1 className ="sHeader">{typeObject(header,1000)}</h1>
