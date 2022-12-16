@@ -123,7 +123,7 @@ function content(){
       <a className="exploreLinkContent">"Design is intelligence made visible." -- Alina Wheeler</a>
 
     </div>
-    <div className= "contentCards"> 
+    <div style={{width:"100%"}} className= "contentCards"> 
     
     <h4 class="aboutMe">Github Link</h4>
     <a className="exploreLinkContent" href='https://github.com/tiredcheetah112/FinalPortfolio'> GitHub Source Code</a>        
