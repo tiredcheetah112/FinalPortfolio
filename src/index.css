@@ -50,6 +50,7 @@ body {
 
 .header:hover{
   text-decoration: None;
+  color:#eeb6bb;
 }
 
 
@@ -197,6 +198,8 @@ body {
   display:flex;
   flex-direction: column;
   text-align:left;
+  width: 100%;
+  height: 100%;
 }
 .contentRight{
   margin-left:5%;

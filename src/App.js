@@ -126,7 +126,7 @@ function content(){
     <div className= "contentCards"> 
     
     <h4 class="aboutMe">Github Link</h4>
-    <a className="exploreLinkContent"> GitHub Source Code</a>        
+    <a className="exploreLinkContent" href='https://github.com/tiredcheetah112/FinalPortfolio'> GitHub Source Code</a>        
      </div>
     </div>
   </div>
